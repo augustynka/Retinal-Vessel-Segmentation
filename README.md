@@ -1,5 +1,6 @@
 ## Retinal-Vessel-Segmentation
-Data: https://cecas.clemson.edu/~ahoover/stare/probing/index.html
+Images data: https://cecas.clemson.edu/~ahoover/stare/probing/index.html
+
 This repository accompanies the report and provides a complete pipeline for automatically detecting blood vessels in fundus images of the retina.
 
 **Key Components:**
